@@ -56,11 +56,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JV-VM/JV-VM/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
